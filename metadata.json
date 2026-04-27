@@ -1,0 +1,10 @@
+{
+  "name": "GRID ASSAULT 3D",
+  "description": "A high-octane 2D vertical shooter set in a high-fidelity 3D neon environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "3D Rendering",
+    "Physics Simulation",
+    "Real-time Combat"
+  ]
+}
